@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "/Users/apple/miniconda3/envs/adk/bin/python",
+    "python.condaPath": "/Users/apple/miniconda3/bin/conda",
+    "python.analysis.extraPaths": [
+      "/Users/apple/miniconda3/envs/adk/lib/python3.14/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.useLibraryCodeForTypes": true
+}
+  
